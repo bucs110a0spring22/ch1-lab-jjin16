@@ -8,7 +8,7 @@
 _Replace anything surrounded by the `< >` symbols (including the < >)._
 
 ## SUMMARY OF LATE POLICY FOR THE COURSE:
- < Provide a  description of the courses late policy >
+ Every student gets 5 grace days that can be used as extra time to complete labs. Everyday that the labs are submitted late, 10% score reduction gets applied per late day.  
 
 ## GRACE DAYS
 Grace days used for this assignment: 0
@@ -16,10 +16,10 @@ Grace days used for this assignment: 0
 Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- n/a
+none
 
 ## REFERENCES:
- n/a
+ CS 110 syllabus A0 spring 2022
 
 ## MISCELLANEOUS COMMENTS:
- n/a
+ none
